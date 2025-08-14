@@ -1,1 +1,1 @@
-# html-portfolio
+Very basic HTML-only portfolio project
